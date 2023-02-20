@@ -1,0 +1,21 @@
+html, body{
+    margin: 0, 0;
+    padding: 0, 0;
+    font-family: 'Mukta', sans-serif;
+}
+.container{
+    height: 450px;
+    width: 500px;
+}
+#canvas{
+    float: right;
+}
+#inputcanvas{
+    border: 1px solid #000;
+    margin-bottom: 10px;
+    
+}
+#outputcanvas{
+    float: left;
+    border: 1px solid #000;
+}
